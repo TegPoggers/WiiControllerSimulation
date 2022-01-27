@@ -15,4 +15,5 @@ Na função main.c há flags, a RANDOM_SEED_OFFSET define qual seed será usada 
 # Autores:
 David Segalle
 
+
 Viviane Ruotolo
